@@ -1,0 +1,13 @@
+{
+  "name": "Curriculum-Vitae",
+  "scripts": {
+    "lint": "textlint 'README.md'",
+    "fix": "textlint 'docs/**/*.md' --fix"
+  },
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-rule-preset-japanese": "^5.0.0",
+    "textlint-rule-prh": "^5.3.0"
+  }
+}
