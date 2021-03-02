@@ -60,7 +60,7 @@
 #### フロントエンド
 - HTML、CSS、JavaScript
 - Vue.js
-
+G
 #### バックエンド
 - Python
 - C#
@@ -260,7 +260,7 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 
 | Date | Event | Slide |
 |---|-----|-----|
-|2021/02/21|[アジャイルプラクティスLT会 <Agile Practices Subway Tour>\#1 XP編](https://agiledevs.connpass.com/event/202016/)|[1週間ですら見積もれなかったからイテレーションを1日にしてみた \- Speaker Deck](https://speakerdeck.com/jnuank/1zhou-jian-desurajian-ji-morenakatutakaraiteresiyonwo1ri-nisitemita)|
+|2021/02/21|[アジャイルプラクティスLT会 <Agile Practices Subway Tour>\#1 XP編](https://agiledevs.connpass.com/event/202016/)|[1週間ですら見積もれなかったからイテレーションを1日にしてみた](https://speakerdeck.com/jnuank/1zhou-jian-desurajian-ji-morenakatutakaraiteresiyonwo1ri-nisitemita)|
 |2020/08/07|[カイゼンの旅、チームの旅。現場の軌跡を語ろうライトニングトーク回 \- DevLOVE](https://devlove.doorkeeper.jp/events/109556?utm_campaign=event_109556_130263&utm_medium=email&utm_source=not_replied_message)| [対話から始めていく私たち開発チームのジャーニー](https://speakerdeck.com/jnuank/dui-hua-karashi-meteikusi-tatikai-fa-timufalsesiyani) |
 |2019/12/14|[レガシーをぶっつぶせ。現場でDDD！2nd 「インプット＜アウトプット！」第一部 ](https://genbade-ddd.connpass.com/event/156060/)|[モデリングで既存システムの可視化に臨んだ話](https://speakerdeck.com/jnuank/moderingudeji-cun-sisutemufalseke-shi-hua-nilin-ndahua) |
 
