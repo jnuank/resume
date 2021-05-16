@@ -61,7 +61,7 @@
 #### フロントエンド
 - HTML、CSS、JavaScript
 - Vue.js
-G
+
 #### バックエンド
 - Python
 - C#
