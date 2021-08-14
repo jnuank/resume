@@ -61,12 +61,14 @@
 #### フロントエンド
 - HTML、CSS、JavaScript
 - Vue.js
+- Angular Dart
 
 #### バックエンド
 - Python
 - C#
 - Java
 - Shell(bash)
+- Kotlin
 
 ### データストア
 - SQLServer、PostgreSQL
@@ -79,6 +81,7 @@
 - Vuetify
 
 ### インフラ
+
 #### AWS
 - EC2、Elastic Beanstalk
 - Lambda、APIGateway、SQS、SNS
@@ -105,17 +108,14 @@
 
 ### 開発プロセスなど
 
+- XP
 - スクラム
-- モブプログラミング
+- ペアプロ、ペアプロ
 - ユーザーストーリーマッピング
 - RDRA2.0
 - [Event Storming](https://www.eventstorming.com/)
 - ふりかえり
   - KPT、YWT、FDL、タイムライン、4Ls
-
-
-
-
 
 ## やったことはないが興味があるもの
 
@@ -129,6 +129,12 @@
 ## 職務経歴
 
 ### 2021/04 - 現在 ： 株式会社ユーザベース
+
+#### 2021/04 - 現在：　顧客リサーチプラットフォームの開発
+役割：バックエンド、フロントエンド（メンバー）
+チーム：9人
+
+- XPベースのアジャイル開発
 
 
 ### 2018/07 - 2021/03 : ハンズラボ株式会社
