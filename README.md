@@ -274,6 +274,7 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 
 | Date | Event | Slide |
 |---|-----|-----|
+|2021/09/18|[今年は20周年！XP祭り2021 参加&LT募集！！](https://xpjug.connpass.com/event/218516/)|[スクラムを実践していた私がXPの現場に来て感じたこと](https://speakerdeck.com/jnuank/sukuramuwoshi-jian-siteitasi-gaxpfalsexian-chang-nilai-tegan-zitakoto?slide=49)|
 |2021/03/24|[おすすめの技術書 LT会 ](https://rakus.connpass.com/event/204979/)|[3つの概念で覚えるLinuxの世界](https://speakerdeck.com/jnuank/3tufalsegai-nian-dejue-erulinuxfalseshi-jie)|
 |2021/02/21|[アジャイルプラクティスLT会 <Agile Practices Subway Tour>\#1 XP編](https://agiledevs.connpass.com/event/202016/)|[1週間ですら見積もれなかったからイテレーションを1日にしてみた](https://speakerdeck.com/jnuank/1zhou-jian-desurajian-ji-morenakatutakaraiteresiyonwo1ri-nisitemita)|
 |2020/08/07|[カイゼンの旅、チームの旅。現場の軌跡を語ろうライトニングトーク回 \- DevLOVE](https://devlove.doorkeeper.jp/events/109556?utm_campaign=event_109556_130263&utm_medium=email&utm_source=not_replied_message)| [対話から始めていく私たち開発チームのジャーニー](https://speakerdeck.com/jnuank/dui-hua-karashi-meteikusi-tatikai-fa-timufalsesiyani) |
