@@ -276,7 +276,7 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 | Date | Event | 
 |---|-----|
 |2021/11/28|[リモートワークでの「雑談」どうやるの会議](https://agiledevs.connpass.com/event/228214/)|
-|2021/09/11|[DDD質問箱のつまみ喰い \- 1軒目](https://ddd-community-jp.connpass.com/event/223444/)|
+|2021/09/11〜|[DDD質問箱のつまみ喰い](https://ddd-community-jp.connpass.com/event/223444/)|
 |2020/08/08〜2021/07/31|[エリック・エヴァンスのドメイン駆動設計 輪読会](https://ddd-community-jp.connpass.com/event/185352/)|
 |2020/08/01|[TDD Boot Camp 2020 Online \#1 ](https://tddbc.connpass.com/event/181973/)|
 
