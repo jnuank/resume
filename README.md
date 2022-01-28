@@ -142,7 +142,7 @@
 - XPでの開発は初めてだった為、スクラムとXPの違いを自分なりに言語化して登壇
   - [スクラムを実践していた私がXPの現場に来て感じたこと](https://speakerdeck.com/jnuank/sukuramuwoshi-jian-siteitasi-gaxpfalsexian-chang-nilai-tegan-zitakoto)
 
-#### 2021/07 - 現在： エンジニア採用
+#### 2021/07 - 2022/02 現在： エンジニア採用
 
 チーム：3人
 
