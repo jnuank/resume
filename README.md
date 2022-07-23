@@ -4,14 +4,14 @@
 - [基本情報](#基本情報)
 - [職務経歴（概要）](#職務経歴概要)
 - [得意分野・活かせる経験](#得意分野活かせる経験)
-- [資格](#資格)
-- [スキル](#スキル)
 - [やったことはないが興味があるもの](#やったことはないが興味があるもの)
 - [職務経歴](#職務経歴)
   - [株式会社ユーザベース(2021/04〜)](#202104---現在--株式会社ユーザベース)
   - [ハンズラボ株式会社(2018/07〜2021/03)](#201807---202103--ハンズラボ株式会社)
   - [株式会社Vヴィズリア(2016/10〜2018/06)](#201610---201806--株式会社vヴィズリア)
   - [日本サード・パーティ株式会社(2009/04〜2016/09)](#200904---201609--日本サードパーティ株式会社)
+- [スキル](#スキル)
+- [資格](#資格)
 - [課外活動](#課外活動)
 
 
@@ -50,73 +50,6 @@
 
 - チームで取り入れた方が良いと感じたモノを、なぜ必要なのかを踏まえながら、チームへ浸透させていくこと
 
-## 資格
-
-| 取得時期 | 名称 |
-|---|-----|
-|2020/10 |認定スクラムマスター(LSM)|
-
-## スキル
-
-### 言語
-#### フロントエンド
-- HTML、CSS、JavaScript
-- Vue.js
-- Angular Dart
-
-#### バックエンド
-- Python
-- C#
-- Java
-- Shell(bash)
-- Kotlin
-
-### データストア
-- SQLServer、PostgreSQL
-
-### フレームワーク
-- ASP.NET MVC5、Bootstrap
-- Django、Django REST framework
-- Spring Boot
-- jQuery
-- Vuetify
-
-### インフラ
-
-#### AWS
-- EC2、Elastic Beanstalk
-- Lambda、APIGateway、SQS、SNS
-- RDS、DynamoDB
-- VPC、IAM、S3、CloudFormation、CloudWatch
-
-#### オンプレ
-
-- Apache
-
-#### OS
-- Windows、Windows Server
-- macOS
-- Linux(CentOS、Amazon Linux)
-
-### その他
-
-- GitHub、 GitHub Actions、 SVN
-- Sentry、Selenium IDE、TestCafe、Cypress
-- Docker
-- Serverless Framework
-- PlantUML
-- Google Jamboard、miro
-
-### 開発プロセスなど
-
-- XP
-- スクラム
-- ペアプロ、ペアプロ
-- ユーザーストーリーマッピング
-- RDRA2.0
-- [Event Storming](https://www.eventstorming.com/)
-- ふりかえり
-  - KPT、YWT、FDL、タイムライン、4Ls
 
 ## やったことはないが興味があるもの
 
@@ -289,6 +222,75 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 レントゲン・MRI・CTなどの専門性の高い技術・知識を学ぶことや、訪問先で顧客対応は勉強になりましたが、
 
 同じ会社・部署にいても一人で仕事をすることが多く、もっとチームで何か一つのモノやサービスを作って届ける仕事をしたいと思い、エンジニアとして転職することにしました。
+
+## スキル
+
+### 言語
+#### フロントエンド
+- HTML、CSS、JavaScript
+- Vue.js
+- Angular Dart
+
+#### バックエンド
+- Python
+- C#
+- Java
+- Shell(bash)
+- Kotlin
+
+### データストア
+- SQLServer、PostgreSQL
+
+### フレームワーク
+- ASP.NET MVC5、Bootstrap
+- Django、Django REST framework
+- Spring Boot
+- jQuery
+- Vuetify
+
+### インフラ
+
+#### AWS
+- EC2、Elastic Beanstalk
+- Lambda、APIGateway、SQS、SNS
+- RDS、DynamoDB
+- VPC、IAM、S3、CloudFormation、CloudWatch
+
+#### オンプレ
+
+- Apache
+
+#### OS
+- Windows、Windows Server
+- macOS
+- Linux(CentOS、Amazon Linux)
+
+### その他
+
+- GitHub、 GitHub Actions、 SVN
+- Sentry、Selenium IDE、TestCafe、Cypress
+- Docker
+- Serverless Framework
+- PlantUML
+- Google Jamboard、miro
+
+### 開発プロセスなど
+
+- XP
+- スクラム
+- ペアプロ、ペアプロ
+- ユーザーストーリーマッピング
+- RDRA2.0
+- [Event Storming](https://www.eventstorming.com/)
+- ふりかえり
+  - KPT、YWT、FDL、タイムライン、4Ls
+
+## 資格
+
+| 取得時期 | 名称 |
+|---|-----|
+|2020/10 |認定スクラムマスター(LSM)|
+
 
 
 ## 課外活動
