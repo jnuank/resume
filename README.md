@@ -71,7 +71,7 @@
 チーム：3人
 
 - チームメンバーを新しく迎え、チームの立ち上げをして、プロダクトの1機能の英語対応を実施
-- 使用技術：Go、Kotlin、Angular Dart、Python、Kubernetes
+- 使用技術：Kotlin(Spring Boot)、Angular Dart、Python、Next.js、TypeScript、Kubernetes
 
 
 #### 2023/01 - 2023/03： 経済情報プラットフォームの開発
