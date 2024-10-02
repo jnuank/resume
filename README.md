@@ -73,6 +73,8 @@
 
 - 使用技術：TypeScript(lit)、F#、Kubernetes
 
+- この時期に2023/4〜始めていたチーム組成の話をテーマに登壇
+  - [アジャイルの知見の少ないメンバーの多いチームづくりの1年半をふりかえる](https://speakerdeck.com/jnuank/aziyairunozhi-jian-noshao-naimenbanoduo-itimudukurino1nian-ban-wohurikaeru)
 
 #### 2024/04 - 2024/06： 経済情報プラットフォームの開発
 役割：バックエンド、フロントエンド（メンバー）
