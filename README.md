@@ -59,7 +59,7 @@
 - 組成した知見の共有
   - [アジャイルの知見の少ないメンバーの多いチームづくりの1年半をふりかえる](https://speakerdeck.com/jnuank/aziyairunozhi-jian-noshao-naimenbanoduo-itimudukurino1nian-ban-wohurikaeru)
   - [より協力的なペアプロを促すには どうするかを考える](https://speakerdeck.com/jnuank/yorixie-li-de-napeapurowocu-suniha-dousurukawokao-eru-81592987-dff1-44f1-9ae3-630f0d9d33e3)
-  - [ふりかえりからチームづくりの9ヶ月をふりかえる \- Uzabase for Engineers](https://tech.uzabase.com/entry/2024/01/10/124130)
+  - [ふりかえりからチームづくりの9ヶ月をふりかえる](https://tech.uzabase.com/entry/2024/01/10/124130)
 
 ## やったことはないが興味があるもの
 
