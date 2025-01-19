@@ -27,7 +27,6 @@
 |LAPRAS|[LAPRAS](https://lapras.com/public/BGBJDIV)|
 |connpass|[NakajimaJun](https://connpass.com/user/NakajimaJun/)|
 |Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
-|note|[note](https://note.com/jnuank)|
 |Zenn|[Zenn](https://zenn.dev/jnuank)|
 
 
