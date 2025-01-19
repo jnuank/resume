@@ -25,7 +25,6 @@
 |Wantedly|[Wantedly](https://www.wantedly.com/users/64214659)|
 |SpeakerDeck|[Jun Nakajima](https://speakerdeck.com/jnuank)|
 |LAPRAS|[LAPRAS](https://lapras.com/public/BGBJDIV)|
-|connpass|[NakajimaJun](https://connpass.com/user/NakajimaJun/)|
 |Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
 |Zenn|[Zenn](https://zenn.dev/jnuank)|
 
