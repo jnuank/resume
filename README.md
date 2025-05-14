@@ -377,8 +377,7 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 
 - XP
 - スクラム
-- ペアプロ、ペアプロ
-- ユーザーストーリーマッピング
+- ペアプロ、モブプロ
 - RDRA2.0
 - [Event Storming](https://www.eventstorming.com/)
 - ふりかえり
