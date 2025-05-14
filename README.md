@@ -1,7 +1,6 @@
 # 職務経歴書
 
 # Table of contents
-- [基本情報](#基本情報)
 - [職務経歴（概要）](#職務経歴概要)
 - [得意分野・活かせる経験](#得意分野活かせる経験)
 - [やったことはないが興味があるもの](#やったことはないが興味があるもの)
@@ -13,20 +12,9 @@
 - [スキル](#スキル)
 - [資格](#資格)
 - [課外活動](#課外活動)
+- [各種リンク](#各種リンク)
 
 
-## 基本情報
-
-| 項目 | |
-|---|-----|
-|Name|Jun Nakajima|
-|Twitter|[@jnuank_](https://twitter.com/jnuank_)|
-|Qiita|[@jnuank](https://qiita.com/jnuank)|
-|Wantedly|[Wantedly](https://www.wantedly.com/users/64214659)|
-|SpeakerDeck|[Jun Nakajima](https://speakerdeck.com/jnuank)|
-|LAPRAS|[LAPRAS](https://lapras.com/public/BGBJDIV)|
-|Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
-|Zenn|[Zenn](https://zenn.dev/jnuank)|
 
 
 ## 職務経歴（概要）
@@ -418,3 +406,16 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 |2020/08/07|[カイゼンの旅、チームの旅。現場の軌跡を語ろうライトニングトーク回 \- DevLOVE](https://devlove.doorkeeper.jp/events/109556?utm_campaign=event_109556_130263&utm_medium=email&utm_source=not_replied_message)| [対話から始めていく私たち開発チームのジャーニー](https://speakerdeck.com/jnuank/dui-hua-karashi-meteikusi-tatikai-fa-timufalsesiyani) |
 |2019/12/14|[レガシーをぶっつぶせ。現場でDDD！2nd 「インプット＜アウトプット！」第一部 ](https://genbade-ddd.connpass.com/event/156060/)|[モデリングで既存システムの可視化に臨んだ話](https://speakerdeck.com/jnuank/moderingudeji-cun-sisutemufalseke-shi-hua-nilin-ndahua) |
 
+
+## 各種リンク
+
+| 項目 | |
+|---|-----|
+|Name|Jun Nakajima|
+|Twitter|[@jnuank_](https://twitter.com/jnuank_)|
+|Qiita|[@jnuank](https://qiita.com/jnuank)|
+|Wantedly|[Wantedly](https://www.wantedly.com/users/64214659)|
+|SpeakerDeck|[Jun Nakajima](https://speakerdeck.com/jnuank)|
+|LAPRAS|[LAPRAS](https://lapras.com/public/BGBJDIV)|
+|Blog|[jnuank blog](https://jnuank.hatenablog.com/)|
+|Zenn|[Zenn](https://zenn.dev/jnuank)|
