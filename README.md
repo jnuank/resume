@@ -61,9 +61,11 @@
   - [より協力的なペアプロを促すには どうするかを考える](https://speakerdeck.com/jnuank/yorixie-li-de-napeapurowocu-suniha-dousurukawokao-eru-81592987-dff1-44f1-9ae3-630f0d9d33e3)
   - [ふりかえりからチームづくりの9ヶ月をふりかえる](https://tech.uzabase.com/entry/2024/01/10/124130)
 
-## やったことはないが興味があるもの
+## 今後やってみたい・興味があるもの
 
 - エンジニア組織制度の制定、運用
+- 成果を出すための組織づくり
+  - 主にアジャイルな文化の強化、醸成を考えています
 
 ## 職務経歴
 
