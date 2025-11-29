@@ -66,6 +66,7 @@ XPをベースとしたアジャイル開発を実践しており、フルタイ
 
 | Date | やったこと | 概要 |
 |---|-----|---|
+| 2025/07 - 現在 | 人物情報の表示の開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>内容: これから会う人の人物の情報の開発<br>- チーム: 5人<br>仕様技術：Flutter Dart、Rust  (Axum)、Python、Kubernetes、Lit、TypesScript、Google ADK|
 | 2025/04 - 現在 | Salesforce上で動くアプリケーションの開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 2人 |
 | 2025/01 - 2025/03 | 経済情報プラットフォームの開発 | 内容: 技術者向けに特許や論文情報を提供する機能の開発<br>- 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 5人<br>- 使用技術: Angular Dart、Rust（Actix）、Kotlin（Spring Boot）、Python、Kubernetes |
 | 2024/07 - 2024/12 | 経済情報プラットフォームの開発 | 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 5人<br>- 使用技術: TypeScript(lit)、F#、Kubernetes<br>- 補足: この時期に2023/4〜始めていたチーム組成の話をテーマに登壇<br>- 関連登壇: [アジャイルの知見の少ないメンバーの多いチームづくりの1年半をふりかえる](https://speakerdeck.com/jnuank/aziyairunozhi-jian-noshao-naimenbanoduo-itimudukurino1nian-ban-wohurikaeru) |
