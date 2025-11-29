@@ -243,6 +243,7 @@ C#、ASP.NET MVCでの開発経験を積み、その後半年間以上Excelで�
 
 | Date | Event | Slide |
 |---|-----|-----|
+|2025/10/04|[XP祭り2025＋スクラム祭り　参加＆LT募集！！](https://xpjug.connpass.com/event/364203/)|[許しとアジャイル](https://speakerdeck.com/jnuank/xu-sitoaziyairu)|
 |2024/09/28|[XP祭り2024 参加＆LT募集！！](https://xpjug.connpass.com/event/326033/)|[アジャイルの知見の少ないメンバーの多いチームづくりの1年半をふりかえる](https://speakerdeck.com/jnuank/aziyairunozhi-jian-noshao-naimenbanoduo-itimudukurino1nian-ban-wohurikaeru)|
 |2023/10/05|[Don’t just Do Agile, Be Agile ～アジャイルの価値観で行動しよう～](https://tebiki.connpass.com/event/296567)|-|
 |2023/09/30|[XP祭り2023 参加＆LT募集！！](https://xpjug.connpass.com/event/292794)|[より協力的なペアプロを促すには どうするかを考える](https://speakerdeck.com/jnuank/yorixie-li-de-napeapurowocu-suniha-dousurukawokao-eru-81592987-dff1-44f1-9ae3-630f0d9d33e3)|
