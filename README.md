@@ -66,9 +66,10 @@ XPをベースとしたアジャイル開発を実践しており、フルタイ
 
 | Date | やったこと | 概要 |
 |---|-----|---|
-| 2025/10 - 現在 | 人物情報・組織図の表示の開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>内容: これから会う人の人物や企業の組織図の情報の開発<br>- チーム: 5人<br>仕様技術：Flutter Dart、Rust  (Axum)、Python、Kubernetes、Lit、TypesScript |
-| 2025/07 - 現在 | 人物情報の表示の開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>内容: これから会う人の人物の情報の開発<br>- チーム: 5人<br>仕様技術：Flutter Dart、Rust  (Axum)、Python、Kubernetes、Lit、TypesScript、Google ADK|
-| 2025/04 - 現在 | Salesforce上で動くアプリケーションの開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 2人 |
+| 2026/02 - 現在 | データ配信周りの開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>内容: TBD<br>- チーム: 4人<br>仕様技術：Kotlin |
+| 2025/10 - 2026/01 | 人物情報・組織図の表示の開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>内容: これから会う人の人物や企業の組織図の情報の開発<br>- チーム: 5人<br>仕様技術：Flutter Dart、Rust  (Axum)、Python、Kubernetes、Lit、TypesScript |
+| 2025/07 - 2025/09 | 人物情報の表示の開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>内容: これから会う人の人物の情報の開発<br>- チーム: 5人<br>仕様技術：Flutter Dart、Rust  (Axum)、Python、Kubernetes、Lit、TypesScript、Google ADK|
+| 2025/04 - 2025/06 | Salesforce上で動くアプリケーションの開発 | - 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 2人 |
 | 2025/01 - 2025/03 | 経済情報プラットフォームの開発 | 内容: 技術者向けに特許や論文情報を提供する機能の開発<br>- 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 5人<br>- 使用技術: Angular Dart、Rust（Actix）、Kotlin（Spring Boot）、Python、Kubernetes |
 | 2024/07 - 2024/12 | 経済情報プラットフォームの開発 | 役割: バックエンド、フロントエンド（メンバー）<br>- チーム: 5人<br>- 使用技術: TypeScript(lit)、F#、Kubernetes<br>- 補足: この時期に2023/4〜始めていたチーム組成の話をテーマに登壇<br>- 関連登壇: [アジャイルの知見の少ないメンバーの多いチームづくりの1年半をふりかえる](https://speakerdeck.com/jnuank/aziyairunozhi-jian-noshao-naimenbanoduo-itimudukurino1nian-ban-wohurikaeru) |
 | 2024/04 - 2024/06 | 経済情報プラットフォームの開発 | チーム: 7人<br>- 内容: 新規機能の開発と小規模改善<br>- 使用技術: Kotlin(Spring Boot)、Rust(Actix)、TypeScript(Lit)、Kubernetes<br>- 補足: 2024/01からのチーム体制に、入れ替わり1名、追加2名の計7名 |
